@@ -21,7 +21,7 @@
 ### 💡 About Me
 I am an **Electronic Engineering** student at *Universidad Industrial de Santander* and a proactive developer. My technical focus lies in **biomedical signal processing**, medical imaging, and electronic design. 
 
-My motivation stems from a profound passion for technology; I'm driven by the belief that automation and precise data processing can transform clinical diagnostics. I'm dedicated to developing **Python-based tools** that bridge the gap between complex hardware and intuitive medical software (specifically focused on **automatic axial slice rendering**).
+My motivation stems from a profound passion for technology; I'm driven by the belief that automation and precise data processing can transform clinical diagnostics. I'm dedicated to developing **Python-based tools** that bridge the gap between complex hardware and intuitive medical software.
 
 ---
 
